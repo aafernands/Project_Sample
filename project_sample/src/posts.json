@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Adventures in Iceland",
+    "article": "Aliquip cillum ad do velit Lorem veniam magna irure cupidatat do reprehenderit anim anim proident. Adipisicing duis nisi adipisicing ipsum cupidatat in irure aliquip sunt. Reprehenderit id sit aliqua nisi consequat cupidatat. Ut occaecat aliquip minim pariatur cupidatat excepteur mollit ex eiusmod velit.",
+    "date": "05/10/2021"
+  },
+  {
+    "id": 2,
+    "title": "How to save money for your dream's trip",
+    "article": "Aliquip cillum ad do velit Lorem veniam magna irure cupidatat do reprehenderit anim anim proident. Adipisicing duis nisi adipisicing ipsum cupidatat in irure aliquip sunt. Reprehenderit id sit aliqua nisi consequat cupidatat. Ut occaecat aliquip minim pariatur cupidatat excepteur mollit ex eiusmod velit.",
+    "date": "05/12/2021",
+    "Author": "Alex Fernandes"
+  },
+  {
+    "id": 3,
+    "title": "Adventures in Iceland",
+    "article": "Aliquip cillum ad do velit Lorem veniam magna irure cupidatat do reprehenderit anim anim proident. Adipisicing duis nisi adipisicing ipsum cupidatat in irure aliquip sunt. Reprehenderit id sit aliqua nisi consequat cupidatat. Ut occaecat aliquip minim pariatur cupidatat excepteur mollit ex eiusmod velit.",
+    
+    "date": "05/14/2021",
+    "Author": "Alex Fernandes"
+  },
+  {
+    "id": 4,
+    "title": "Traveling abroad on COVID-19 times",
+    "article": "Aliquip cillum ad do velit Lorem veniam magna irure cupidatat do reprehenderit anim anim proident. Adipisicing duis nisi adipisicing ipsum cupidatat in irure aliquip sunt. Reprehenderit id sit aliqua nisi consequat cupidatat. Ut occaecat aliquip minim pariatur cupidatat excepteur mollit ex eiusmod velit.",
+    "date": "05/15/2021",
+    "Author": "Alex Fernandes"
+  }
+ 
+]
